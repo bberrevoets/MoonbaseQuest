@@ -30,7 +30,7 @@ public class AsteroidCollision : MonoBehaviour
             if (GameManager.GameStatus == GameManager.GameState.Playing)
             {
                 // create the canvas
-                var displayAsteroidScore = Instantiate(pointCanvas, transform.position, Quaternion.identity);
+                var displayAsteroidScore = Instantiate(pointCanvas, collision.transform.position, Quaternion.identity);
 
                 // assign the text for score
                 displayAsteroidScore.transform.GetChild(0).transform.GetComponent<TextMeshProUGUI>().text = scoreToDisplay.ToString();
