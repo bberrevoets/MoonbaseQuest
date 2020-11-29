@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5587333519594629071}
   - component: {fileID: -1802887091160970665}
   - component: {fileID: -4658112079203464406}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AsteroidExplosion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4819,7 +4819,7 @@ ParticleSystemRenderer:
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_MotionVectors: 1
-  m_LightProbeUsage: 0
+  m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 0
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
