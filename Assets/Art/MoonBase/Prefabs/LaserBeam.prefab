@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   asteroidExplosion: {fileID: 5587333519594629070, guid: c34c359c899647148a75c1c18db29282, type: 3}
-  pointCanvas: {fileID: 967417575048324429, guid: d48dbf5b0e30b42429aafbf36d3457e2, type: 3}
+  pointCanvas: {fileID: 2682435087024056821, guid: d48dbf5b0e30b42429aafbf36d3457e2, type: 3}
 --- !u!1 &4016273363007671781
 GameObject:
   m_ObjectHideFlags: 0
