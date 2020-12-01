@@ -7,13 +7,13 @@ using System.Collections.Generic;
 
 using UnityEngine;
 using UnityEngine.Audio;
-#if UNITY_EDITOR
+//#if UNITY_EDITOR
 using UnityEditor;
 
 using System;
 using System.Reflection;
 
-#endif
+//#endif
 
 namespace OVR
 {
